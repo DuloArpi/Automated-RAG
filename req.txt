@@ -1,0 +1,27 @@
+pip install langchain-openai langchain-huggingface chromadb
+pip install langchain langchain-community langchain-text-splitters pypdf unstructured tiktoken
+langchain_chroma
+sentence_transformers
+pip install rank_bm25 sentence-transformers
+pip install transformers accelerate bitsandbytes
+pip install ragas datasets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

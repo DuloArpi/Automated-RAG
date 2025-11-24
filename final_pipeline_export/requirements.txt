@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+chromadb
+rank_bm25
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+pypdf
+unstructured
+tiktoken
+ragas
+datasets

@@ -1,0 +1,10 @@
+{
+    "chunk_size": 128,
+    "chunk_overlap": 20,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "retriever_method": "hybrid",
+    "top_k": 3,
+    "use_reranker": true,
+    "llm_model": "gpt2",
+    "prompt_style": "concise"
+}
