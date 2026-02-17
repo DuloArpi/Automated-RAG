@@ -1,6 +1,6 @@
 # Automated RAG Pipeline Optimizer
 
-This is a framework for Retrieval-Augmented Generation. Instead of guessing the best chunk size, retriever, or embedding model for your documents, AutoRAG automatically generates synthetic test data, evaluates thousands of pipeline combinations, and **exports a production-ready, Dockerized API** of the winning configuration.
+This is a framework for Retrieval-Augmented Generation. Instead of guessing the best chunk size, retriever, or embedding model for your documents, AutoRAG automatically generates synthetic test data, evaluates pipeline combinations, and **exports a production-ready, Dockerized API** of the winning configuration.
 
 ## 🚀 Features
 
